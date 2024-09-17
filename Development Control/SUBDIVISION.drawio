@@ -1,9 +1,307 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="W_NjGwkdMh0hNnSg1V23">
-    <mxGraphModel>
+    <mxGraphModel dx="1500" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lo4iMwmkbIrogVArvewk-1" value="APPLICANT" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="110" width="4269" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-2" value="&lt;u&gt;&lt;b&gt;APPLICATION DETAILS&lt;/b&gt;&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;PARCEL NUMBER&lt;/li&gt;&lt;li&gt;PLUPA/DC/17 (PPA2) Reference Number&lt;/li&gt;&lt;li&gt;&lt;label style=&quot;color: rgba(0, 0, 0, 0.87); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Date of issuance of PLUPA/DC/17 (PPA2)&lt;/label&gt;&lt;span style=&quot;color: rgb(220, 53, 69); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;required&quot; aria-required=&quot;true&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(220, 53, 69); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;required&quot; aria-required=&quot;true&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87);&quot;&gt;Land status&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(220, 53, 69); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;required&quot; aria-required=&quot;true&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87);&quot;&gt;add subplots&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(220, 53, 69); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;required&quot; aria-required=&quot;true&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87);&quot;&gt;Additional information&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(220, 53, 69); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot; class=&quot;required&quot; aria-required=&quot;true&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="129" y="46" width="341" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-3" value="&lt;u&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;documents to upload&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;PLUPA/DC/17 (PPA2)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Planning Brief&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Certificate of Lease/ Title&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Scheme plan(PDF)&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.87); font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Scheme plan(shape file)(optional)&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="590" y="50" width="259" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lo4iMwmkbIrogVArvewk-1" source="lo4iMwmkbIrogVArvewk-2" target="lo4iMwmkbIrogVArvewk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-5" value="SUBMIT APPLICATION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="1153" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-7" value="DOWNLOAD PROVISIONAL APPROVAL DOCUMENT" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="2949" y="76" width="153" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lo4iMwmkbIrogVArvewk-1" source="lo4iMwmkbIrogVArvewk-11" target="lo4iMwmkbIrogVArvewk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-11" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="29" y="115" width="61" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lo4iMwmkbIrogVArvewk-1" source="lo4iMwmkbIrogVArvewk-13" target="lo4iMwmkbIrogVArvewk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-13" value="PAYS INVOICE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="1548" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-14" value="TRUE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="1671" y="154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-15" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="1563" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-67" value="&lt;ul&gt;&lt;li&gt;ENTER DATE OF ISSUANSE OF RECOMMENDATION LETER&lt;/li&gt;&lt;li&gt;RECOMMENDATION LETER REFRENCE NUMBER&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ATTACH RECOMMENDATION LETTER&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="3435" y="64" width="291" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-75" value="RESUBMIT APPLICATION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="3569" y="225" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lo4iMwmkbIrogVArvewk-1" source="lo4iMwmkbIrogVArvewk-80" target="lo4iMwmkbIrogVArvewk-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-80" value="PAY APPROVAL FEES?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="3856" y="114" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-82" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="3871" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-87" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="lo4iMwmkbIrogVArvewk-1">
+          <mxGeometry x="4065" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-18" value="SYSTEM" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="410" width="4269" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-19" value="IS APPLICANT THE PROPREITOR?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-18">
+          <mxGeometry x="639" y="50" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lo4iMwmkbIrogVArvewk-18" source="lo4iMwmkbIrogVArvewk-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1034" y="502" as="sourcePoint" />
+            <mxPoint x="1019" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1019" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-22" value="GENERATE PHYSICAL PLANNING INVOICE" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-18">
+          <mxGeometry x="1493" y="75" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-79" value="GENERATE APPROVAL FEES" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-18">
+          <mxGeometry x="3825" y="115" width="141" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.871;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-3" target="lo4iMwmkbIrogVArvewk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-24" value="APPLICATION CREATION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="348" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-25" value="PROPREITORS" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="71" y="701" width="4269" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-26" value="VERIFYS WITH OTP" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-25">
+          <mxGeometry x="650" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-61" target="lo4iMwmkbIrogVArvewk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-28" value="LAO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="913" width="4269" height="327" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lo4iMwmkbIrogVArvewk-28" source="lo4iMwmkbIrogVArvewk-30" target="lo4iMwmkbIrogVArvewk-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-30" value="&lt;u&gt;LAO ACTIONS&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;REQUEST FOR COMMENTS FROM SURVEY DEPARTMENT&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-28">
+          <mxGeometry x="1111" y="50" width="219" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-31" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;REQUEST FOR COMMENTS FROM PHYSICAL PLANNING&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-28">
+          <mxGeometry x="1494" y="55" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-32" value="&lt;u&gt;LAO ACTIONS&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;RECEIVES COMMENTS FROM BOTH PHYSICAL PLANNING AND SURVEY&lt;/li&gt;&lt;li&gt;GO FOR FIELDWORK AND UPLOAD FIELDWORK&lt;/li&gt;&lt;li&gt;ADD APPROVAL COMMENTS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-28">
+          <mxGeometry x="2220" y="30" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="lo4iMwmkbIrogVArvewk-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2300" y="187" as="sourcePoint" />
+            <mxPoint x="2300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="lo4iMwmkbIrogVArvewk-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2380" y="190" as="sourcePoint" />
+            <mxPoint x="2380" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-36" target="lo4iMwmkbIrogVArvewk-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-36" value="SUBMITS APPLICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-19" target="lo4iMwmkbIrogVArvewk-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-38" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lo4iMwmkbIrogVArvewk-37">
+          <mxGeometry x="-0.7295" y="3" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-39" value="PHYSICAL PLANNING" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1243" width="4268" height="267" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-40" value="APPLICATION RECIEVED FOR COMMENTS" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-39">
+          <mxGeometry x="1758" y="87" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-41" value="FORWARD COMMENTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lo4iMwmkbIrogVArvewk-39">
+          <mxGeometry x="1984" y="28" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-22" target="lo4iMwmkbIrogVArvewk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-13" target="lo4iMwmkbIrogVArvewk-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2130" y="1414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-44" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lo4iMwmkbIrogVArvewk-43">
+          <mxGeometry x="-0.8755" y="-5" relative="1" as="geometry">
+            <mxPoint x="-131" y="-77" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-45" value="SURVEY DEPARTMENT" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="1513" width="4268" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-46" value="APPLICATION RECIEVED FOR COMMENTS" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-45">
+          <mxGeometry x="1124.5" y="70" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="lo4iMwmkbIrogVArvewk-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1698" y="100" as="sourcePoint" />
+            <mxPoint x="1778" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-30" target="lo4iMwmkbIrogVArvewk-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-49" value="VALIDATOR" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="1793" width="4269" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-72" value="VALIDATES AND APROVES APPLICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-49">
+          <mxGeometry x="3476" y="117" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-51" target="lo4iMwmkbIrogVArvewk-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-51" value="VALIDATE APPLICATION DETAILS&lt;div&gt;EDIT APPROVAL CONDITIONS&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1960" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-32" target="lo4iMwmkbIrogVArvewk-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2120" y="1110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-53" value="DIRECTOR OF LAND ADMIN" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="2083" width="4269" height="257" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-54" value="PREVIEW APPROVAL LETTER&lt;br&gt;APPROVE APPPLICATION FIRST TIME" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-53">
+          <mxGeometry x="2600" y="100" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-73" value="VALIDATES AND APROVES APPLICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="lo4iMwmkbIrogVArvewk-53">
+          <mxGeometry x="3492" y="127" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-54" target="lo4iMwmkbIrogVArvewk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3111.04" y="560.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-19" target="lo4iMwmkbIrogVArvewk-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="600" as="sourcePoint" />
+            <mxPoint x="790" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-61" value="FALSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="643" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="590" as="sourcePoint" />
+            <mxPoint x="1090" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-31" target="lo4iMwmkbIrogVArvewk-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1659" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-46" target="lo4iMwmkbIrogVArvewk-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1590" y="1680" as="sourcePoint" />
+            <mxPoint x="1640" y="1630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2450" y="1613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-40" target="lo4iMwmkbIrogVArvewk-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2160" y="1400" as="sourcePoint" />
+            <mxPoint x="2210" y="1350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2370" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2150" y="1360" as="sourcePoint" />
+            <mxPoint x="2220" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-68" target="lo4iMwmkbIrogVArvewk-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-68" value="DO A SURVEY PROCESS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3277" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-7" target="lo4iMwmkbIrogVArvewk-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-71" target="lo4iMwmkbIrogVArvewk-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-71" value="VALIDATES AND APROVES APPLICATION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3546" y="990" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-67" target="lo4iMwmkbIrogVArvewk-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.427;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-72" target="lo4iMwmkbIrogVArvewk-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-73" target="lo4iMwmkbIrogVArvewk-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3930" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-79" target="lo4iMwmkbIrogVArvewk-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-84" value="FALSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="178" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-85" target="lo4iMwmkbIrogVArvewk-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-85" value="DOWNLOAD APPROVAL LETTER" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="224" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lo4iMwmkbIrogVArvewk-80" target="lo4iMwmkbIrogVArvewk-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo4iMwmkbIrogVArvewk-89" value="END" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4179" y="358" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
