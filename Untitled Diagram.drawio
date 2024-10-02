@@ -1,0 +1,314 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Page-1" id="BbK3UatSh-epJ7MA6Bii">
+    <mxGraphModel dx="1362" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zjong9HcETMOrcBFu4iD-1" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="3400" height="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-5" value="PROJECT COORDINATOR" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-1">
+          <mxGeometry x="10" y="640" width="3390" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-28" value="&lt;ul&gt;&lt;li&gt;Selects team leads for field work purposes.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-5">
+          <mxGeometry x="808.75" y="140" width="167.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-35" value="&lt;ul&gt;&lt;li&gt;creates a work schedule.&lt;/li&gt;&lt;li&gt;uploads the budget.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-5">
+          <mxGeometry x="1150" y="90" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-39" value="&lt;b&gt;Can return application&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;for amendment&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zjong9HcETMOrcBFu4iD-5">
+          <mxGeometry x="1230" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-4" value="DIRECTOR OF SURVEY" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-1">
+          <mxGeometry x="10" y="250" width="3390" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-23" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="zjong9HcETMOrcBFu4iD-4">
+          <mxGeometry x="1040" y="115" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-4" source="zjong9HcETMOrcBFu4iD-17" target="zjong9HcETMOrcBFu4iD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-25" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-24">
+          <mxGeometry x="-0.1789" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-26" value="&lt;ul&gt;&lt;li&gt;The DOS appoints a Project Coordinator.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-4">
+          <mxGeometry x="818.75" y="250" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-4" source="zjong9HcETMOrcBFu4iD-17" target="zjong9HcETMOrcBFu4iD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-117" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-116">
+          <mxGeometry x="-0.0585" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-17" value="Approves" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-4">
+          <mxGeometry x="852.5" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-4" source="zjong9HcETMOrcBFu4iD-46" target="zjong9HcETMOrcBFu4iD-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-54" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-53">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-46" value="Accepts&amp;nbsp;&lt;div&gt;the budget&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zjong9HcETMOrcBFu4iD-4">
+          <mxGeometry x="1190" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-52" value="&lt;ul&gt;&lt;li&gt;Returns the application to the Project coordinator for the budget to be ammended&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-4">
+          <mxGeometry x="1430" y="125" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-92" value="The DOS receives the submitted field works and forwards for processing.&lt;br&gt;&lt;u&gt;&lt;b&gt;(Follows normal&amp;nbsp; survey flow)&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-4">
+          <mxGeometry x="2845" y="140" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-26" target="zjong9HcETMOrcBFu4iD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-118" value="Forward" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-29">
+          <mxGeometry x="-0.4818" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-35" target="zjong9HcETMOrcBFu4iD-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-109" value="Forward" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-47">
+          <mxGeometry x="-0.62" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-8" value="TEAM LEAD" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-1">
+          <mxGeometry x="10" y="970" width="3390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-31" value="&lt;ul&gt;&lt;li&gt;Receives a notification for been selected to do a project.&lt;/li&gt;&lt;li&gt;Keys in the names and &quot;per diems&quot; of the team members in a table provided.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-8">
+          <mxGeometry x="773.4300000000001" y="40" width="238.13" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-75" value="&lt;ul&gt;&lt;li&gt;Receives the application in the Submission tab.&lt;/li&gt;&lt;li&gt;Submits the Fieldwork.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-8">
+          <mxGeometry x="2070" y="59" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-31" target="zjong9HcETMOrcBFu4iD-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-108" value="Forward" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-36">
+          <mxGeometry x="0.0814" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-28" target="zjong9HcETMOrcBFu4iD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-34" value="Forward" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-32">
+          <mxGeometry x="-0.6381" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-3" value="Applicant- Agencies, Government Parastatals, Proprietors" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="zjong9HcETMOrcBFu4iD-1">
+          <mxGeometry x="10" width="3390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-11" target="zjong9HcETMOrcBFu4iD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-11" value="&lt;ul&gt;&lt;li&gt;List to choose the &quot;type of survey&quot;.&lt;/li&gt;&lt;li&gt;Parcel Number(s).&lt;/li&gt;&lt;li&gt;Location Details( County, Locality, Sub-County).&lt;/li&gt;&lt;li&gt;Proprietor&#39;s/Agency&#39;s/Government Parastatal&#39;s Ardhisasa ID.&lt;/li&gt;&lt;li&gt;Additional Information.&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=east;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="340" y="70" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-15" value="&lt;u&gt;Upload Required Documents&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Copy of the title.&lt;/li&gt;&lt;li&gt;Request Authority Document- Court order/ A letter requesting the Survey Request&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="780" y="80.5" width="225" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-49" target="zjong9HcETMOrcBFu4iD-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-49" value="&lt;ul&gt;&lt;li&gt;Views the budget.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="1170" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-55" value="&lt;b&gt;Receives a notification that the budget&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;has been approved by the DOS&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="1230" y="210" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-56" target="zjong9HcETMOrcBFu4iD-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-68" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-59">
+          <mxGeometry x="-0.0429" y="-5" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-56" value="Accepts" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="1680" y="65" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-58" target="zjong9HcETMOrcBFu4iD-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-58" value="&lt;ul&gt;&lt;li&gt;An invoice is generated.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="1890" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-71" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="1695" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-56" target="zjong9HcETMOrcBFu4iD-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-72" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-70">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-73" target="zjong9HcETMOrcBFu4iD-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-84" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-83">
+          <mxGeometry x="-0.18" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-73" value="Pays" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="2100" y="65" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-82" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="2290" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-87" target="zjong9HcETMOrcBFu4iD-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-87" value="&lt;ul&gt;&lt;li&gt;An invoice is generated.&lt;br&gt;( Checking fee)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="2550" y="65" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-3" source="zjong9HcETMOrcBFu4iD-90" target="zjong9HcETMOrcBFu4iD-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-99" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-98">
+          <mxGeometry x="-0.025" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-90" value="Pays Invoice" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="2900" y="55" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-97" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="3048" y="75" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-132" value="&lt;u&gt;Output&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;New approved Survey plan/ Cadastral plan.&lt;/li&gt;&lt;li&gt;Authentication slip.&lt;/li&gt;&lt;li&gt;Update of the cadastre.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="zjong9HcETMOrcBFu4iD-3">
+          <mxGeometry x="3150" y="55" width="230" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-15" target="zjong9HcETMOrcBFu4iD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-19" value="Applicant Submits" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-18">
+          <mxGeometry x="-0.3111" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-46" target="zjong9HcETMOrcBFu4iD-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-110" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-50">
+          <mxGeometry x="-0.6778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-73" target="zjong9HcETMOrcBFu4iD-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-77" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-76">
+          <mxGeometry x="-0.8293" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-75" target="zjong9HcETMOrcBFu4iD-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-111" value="Submits" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-88">
+          <mxGeometry x="-0.2999" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zjong9HcETMOrcBFu4iD-1" source="zjong9HcETMOrcBFu4iD-90" target="zjong9HcETMOrcBFu4iD-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-96" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-93">
+          <mxGeometry x="-0.6444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-10" target="zjong9HcETMOrcBFu4iD-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-101" value="CARTOGRAPHER SRO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1610" width="3390" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-122" value="&lt;u&gt;Uses the&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;QGIS plug-in to:-&lt;/u&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Cross-checking the submitted&amp;nbsp;&lt;br&gt;beacon values against the existing ones in Survey.&lt;/li&gt;&lt;li&gt;Assigning of new parcel numbers.&lt;/li&gt;&lt;li&gt;Plotting the survey plan / Cadastral plan&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-101">
+          <mxGeometry x="2830" y="30" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-102" value="CHIEF CHECKER" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1960" width="3390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-124" value="Verifies details provided and forwards the application for cross-checking of the computation file.&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-102">
+          <mxGeometry x="2852.5" y="50" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-104" value="CHECKER" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2200" width="3390" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-126" value="Cross-checks the computation file against the plotted survey plans / Cadastral plans" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-104">
+          <mxGeometry x="2860" y="78" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-106" value="AUTHENTICATOR" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2777" width="3390" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-130" value="He/ she approves the application and appends his/ her signature." style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-106">
+          <mxGeometry x="2860" y="81.5" width="160" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-100" value="CHIEF SRO" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1350" width="3390" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-119" value="Verifies the authenticity of the submitted documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="zjong9HcETMOrcBFu4iD-100">
+          <mxGeometry x="2880" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-105" value="CHIEF AUTHENTICATOR" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2478" width="3390" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-128" value="Does the overall checks of all provided information to ascertain whether the application should proceed for approval" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="zjong9HcETMOrcBFu4iD-105">
+          <mxGeometry x="2850" y="57" width="180" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-92" target="zjong9HcETMOrcBFu4iD-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-121" value="Forward" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-120">
+          <mxGeometry x="-0.6713" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-119" target="zjong9HcETMOrcBFu4iD-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-122" target="zjong9HcETMOrcBFu4iD-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-124" target="zjong9HcETMOrcBFu4iD-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-126" target="zjong9HcETMOrcBFu4iD-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-128" target="zjong9HcETMOrcBFu4iD-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zjong9HcETMOrcBFu4iD-130" target="zjong9HcETMOrcBFu4iD-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjong9HcETMOrcBFu4iD-134" value="After Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjong9HcETMOrcBFu4iD-133">
+          <mxGeometry x="-0.7492" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
