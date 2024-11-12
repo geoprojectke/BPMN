@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="NTC" id="TEjj1Q9GnNZ2c5CVBwLa">
+    <mxGraphModel dx="934" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-1" value="Data Clerk" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="870" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hu5aeU2b1oP_sySGYgaS-1" source="hu5aeU2b1oP_sySGYgaS-3" target="hu5aeU2b1oP_sySGYgaS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-1">
+          <mxGeometry x="30" y="175" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hu5aeU2b1oP_sySGYgaS-1" source="hu5aeU2b1oP_sySGYgaS-4" target="hu5aeU2b1oP_sySGYgaS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-4" value="Fills in details related to the specific parcel" style="whiteSpace=wrap;html=1;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-1">
+          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-6" value="&lt;div&gt;Data Entry Details&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Parcel Number&lt;/li&gt;&lt;li&gt;Area of parcel&lt;br&gt;&lt;/li&gt;&lt;li&gt;Proprietor details, including but not limited to: Name, ID number, KRA Pin&amp;nbsp;&lt;/li&gt;&lt;li&gt;Should accommodate beneficiaries who are still minors - details of guardian holding the property to be captured&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-1">
+          <mxGeometry x="30" y="10" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-11" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hu5aeU2b1oP_sySGYgaS-1" source="hu5aeU2b1oP_sySGYgaS-6" target="hu5aeU2b1oP_sySGYgaS-4">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="330" y="140" as="sourcePoint" />
+            <mxPoint x="380" y="89.41" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-12" value="Forwards the application to the verifier" style="whiteSpace=wrap;html=1;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-21" value="Edits the details on return by verifier depending on the remarks given by verifier" style="whiteSpace=wrap;html=1;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-1">
+          <mxGeometry x="362.5" y="165" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-24" value="Outputs&lt;div&gt;&lt;ul&gt;&lt;li&gt;Titles&lt;/li&gt;&lt;li&gt;White cards&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Green cards&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-1">
+          <mxGeometry x="610" y="120" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-2" value="Verifier" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="870" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hu5aeU2b1oP_sySGYgaS-2" source="hu5aeU2b1oP_sySGYgaS-14" target="hu5aeU2b1oP_sySGYgaS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-14" value="&lt;ul&gt;&lt;li&gt;Verifies details forwarded by the data clerk&lt;/li&gt;&lt;li&gt;Can return the application to the data clerk with remarks on what to change&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-2">
+          <mxGeometry x="120" y="40" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hu5aeU2b1oP_sySGYgaS-2" source="hu5aeU2b1oP_sySGYgaS-16" target="hu5aeU2b1oP_sySGYgaS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-20" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hu5aeU2b1oP_sySGYgaS-19">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-16" value="Are details correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-2">
+          <mxGeometry x="395" y="42.5" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-18" value="Approval for title generation depending on nature of title" style="whiteSpace=wrap;html=1;" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-2">
+          <mxGeometry x="610" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;NB: The verifier should be able to view the version history made by the data clerk.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;The version history is both the old nd new details changed by the data clerk&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="hu5aeU2b1oP_sySGYgaS-2">
+          <mxGeometry x="190" y="160" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hu5aeU2b1oP_sySGYgaS-12" target="hu5aeU2b1oP_sySGYgaS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hu5aeU2b1oP_sySGYgaS-16" target="hu5aeU2b1oP_sySGYgaS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-23" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hu5aeU2b1oP_sySGYgaS-22">
+          <mxGeometry x="-0.0518" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu5aeU2b1oP_sySGYgaS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hu5aeU2b1oP_sySGYgaS-18" target="hu5aeU2b1oP_sySGYgaS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
