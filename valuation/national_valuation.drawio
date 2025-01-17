@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="0u0-M9E6lwnY4OtsPx06">
-    <mxGraphModel dx="3217" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="mYFpyGKQAPeTWjzHC4IL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=2;" edge="1" parent="mYFpyGKQAPeTWjzHC4IL-1" source="mYFpyGKQAPeTWjzHC4IL-6" target="mYFpyGKQAPeTWjzHC4IL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mYFpyGKQAPeTWjzHC4IL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" edge="1" parent="mYFpyGKQAPeTWjzHC4IL-1" source="mYFpyGKQAPeTWjzHC4IL-9" target="mYFpyGKQAPeTWjzHC4IL-60">
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" edge="1" parent="mYFpyGKQAPeTWjzHC4IL-1" source="mYFpyGKQAPeTWjzHC4IL-9" target="mYFpyGKQAPeTWjzHC4IL-60">
           <mxGeometry x="0.0029" relative="1" as="geometry">
             <mxPoint x="1020.0000000000191" y="223.43499999999995" as="targetPoint" />
             <mxPoint as="offset" />
@@ -40,12 +40,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mYFpyGKQAPeTWjzHC4IL-60" value="Normal Ardhipay Land Stamp Duty process" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mYFpyGKQAPeTWjzHC4IL-1">
-          <mxGeometry x="520" y="381" width="160" height="106.56" as="geometry" />
+          <mxGeometry x="790" y="176.32999999999998" width="160" height="106.56" as="geometry" />
         </mxCell>
         <mxCell id="mYFpyGKQAPeTWjzHC4IL-61" value="Remove the &lt;b&gt;&quot;Assessed Stamp Duty Amount&quot;&lt;/b&gt; and create a &lt;b&gt;stamp duty / valuation request&lt;/b&gt; to the valuation department." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mYFpyGKQAPeTWjzHC4IL-1">
-          <mxGeometry x="900" y="164.14" width="210" height="129.01" as="geometry" />
+          <mxGeometry x="495" y="361" width="210" height="129.01" as="geometry" />
         </mxCell>
-        <mxCell id="mYFpyGKQAPeTWjzHC4IL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mYFpyGKQAPeTWjzHC4IL-1" source="mYFpyGKQAPeTWjzHC4IL-9" target="mYFpyGKQAPeTWjzHC4IL-61">
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mYFpyGKQAPeTWjzHC4IL-1" source="mYFpyGKQAPeTWjzHC4IL-9" target="mYFpyGKQAPeTWjzHC4IL-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mYFpyGKQAPeTWjzHC4IL-44" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="mYFpyGKQAPeTWjzHC4IL-43">
@@ -54,13 +54,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mYFpyGKQAPeTWjzHC4IL-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DLV&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=78;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="560" width="2669" height="280" as="geometry" />
+          <mxGeometry x="-800" y="560" width="2669" height="408.02" as="geometry" />
         </mxCell>
-        <mxCell id="mYFpyGKQAPeTWjzHC4IL-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Registrar&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=78;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="840" width="2669" height="450" as="geometry" />
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-63" value="Receives the Valuation Request and Forwards the application to the Valuer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mYFpyGKQAPeTWjzHC4IL-16">
+          <mxGeometry x="505" y="70" width="210" height="129.01" as="geometry" />
         </mxCell>
-        <mxCell id="mYFpyGKQAPeTWjzHC4IL-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Government Surveyor&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=78;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="1350" width="2669" height="270" as="geometry" />
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-67" value="Receives the application, does valuation and forwards the application to DLV for harmonization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mYFpyGKQAPeTWjzHC4IL-16">
+          <mxGeometry x="1280" y="70" width="210" height="129.01" as="geometry" />
+        </mxCell>
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;VALUER&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=78;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1000" width="2669" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-65" value="Receives the application, does valuation and forwards the application to DLV for harmonization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mYFpyGKQAPeTWjzHC4IL-18">
+          <mxGeometry x="505" y="150" width="210" height="129.01" as="geometry" />
+        </mxCell>
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mYFpyGKQAPeTWjzHC4IL-61" target="mYFpyGKQAPeTWjzHC4IL-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mYFpyGKQAPeTWjzHC4IL-63" target="mYFpyGKQAPeTWjzHC4IL-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="mYFpyGKQAPeTWjzHC4IL-65" target="mYFpyGKQAPeTWjzHC4IL-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYFpyGKQAPeTWjzHC4IL-69" value="Harmonization" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mYFpyGKQAPeTWjzHC4IL-68">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
