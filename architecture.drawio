@@ -229,10 +229,10 @@
           <mxGeometry x="-0.36000000000001364" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_RFIVC-mQC5Zg40zyzjJ-51" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.arms_application_real-time_monitoring_service;" vertex="1" parent="_RFIVC-mQC5Zg40zyzjJ-46">
-          <mxGeometry x="32.190000000000055" y="240" width="54.900000000000006" height="26.4" as="geometry" />
+          <mxGeometry x="32.190000000000055" y="340" width="54.900000000000006" height="26.4" as="geometry" />
         </mxCell>
         <mxCell id="_RFIVC-mQC5Zg40zyzjJ-52" value="Wazuh -&lt;br&gt;VM Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_RFIVC-mQC5Zg40zyzjJ-46">
-          <mxGeometry x="9.639999999999986" y="266.4" width="100" height="40" as="geometry" />
+          <mxGeometry x="9.639999999999986" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FhZttKuwCezYCY0k29h0-25" value="Client App" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="40" y="285" width="200" height="480" as="geometry" />
