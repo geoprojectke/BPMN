@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1310" dy="4280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="4667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="e6rvh83lCqWXMSusPGLA-31" value="Customer Care (Land Reg. Dept)" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="-1690" width="1776" height="230" as="geometry" />
+          <mxGeometry x="44" y="-1690" width="2046" height="230" as="geometry" />
         </mxCell>
         <mxCell id="e6rvh83lCqWXMSusPGLA-32" value="Applicant" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="-2390" width="1776" height="500" as="geometry" />
+          <mxGeometry x="44" y="-2390" width="2046" height="500" as="geometry" />
         </mxCell>
         <mxCell id="G51JuiO03liY-1iWp-O1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-1" target="G51JuiO03liY-1iWp-O1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,14 +61,19 @@
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-21" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
           <mxGeometry x="1193" y="32.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
-          <mxGeometry x="1470" y="790" width="150" height="80" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-26" value="Receives the surrendered documents and closes the ticket" style="whiteSpace=wrap;html=1;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="1440" y="790" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="6cnbei4Q0fEMiS3Ij1ch-19" target="6cnbei4Q0fEMiS3Ij1ch-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-30" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-27">
+          <mxGeometry x="0.0034" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e6rvh83lCqWXMSusPGLA-33" value="System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="-1890" width="1776" height="200" as="geometry" />
+          <mxGeometry x="44" y="-1890" width="2046" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e6rvh83lCqWXMSusPGLA-33" source="6cnbei4Q0fEMiS3Ij1ch-12" target="6cnbei4Q0fEMiS3Ij1ch-17">
           <mxGeometry relative="1" as="geometry" />
@@ -98,11 +103,22 @@
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-17" target="6cnbei4Q0fEMiS3Ij1ch-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-24" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-1289" width="460" height="120" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-24" value="Investigation Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-1460" width="2046" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="6cnbei4Q0fEMiS3Ij1ch-24">
+          <mxGeometry x="1465" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-25" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-1140" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-26" target="6cnbei4Q0fEMiS3Ij1ch-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-33" value="Once ticket is closed, it moves to the Investigation Officer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-32">
+          <mxGeometry x="-0.5231" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
