@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1572" dy="4435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="4170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="e6rvh83lCqWXMSusPGLA-31" value="Customer Care (Land Reg. Dept)" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="-1690" width="2296" height="230" as="geometry" />
+          <mxGeometry x="44" y="-1690" width="2766" height="230" as="geometry" />
         </mxCell>
         <mxCell id="e6rvh83lCqWXMSusPGLA-32" value="Applicant" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="-2390" width="2296" height="500" as="geometry" />
+          <mxGeometry x="44" y="-2390" width="2766" height="500" as="geometry" />
         </mxCell>
         <mxCell id="G51JuiO03liY-1iWp-O1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-1" target="G51JuiO03liY-1iWp-O1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,8 +83,22 @@
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-41" value="&lt;div&gt;For the partition process and re-parcellation resulting to a new parcel of land, under the Instructions of Registered Proprietor(s) to the Surveyor, the process will have to go through valuation, and stamp duty has to be paid for before submitting mutation forms for registration&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
           <mxGeometry x="1666" y="205" width="270" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="6cnbei4Q0fEMiS3Ij1ch-47" target="6cnbei4Q0fEMiS3Ij1ch-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-53" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-52">
+          <mxGeometry x="-0.0476" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-47" value="Invoice paid?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="2050" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-51" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="2080" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="e6rvh83lCqWXMSusPGLA-33" value="System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="-1890" width="2296" height="200" as="geometry" />
+          <mxGeometry x="44" y="-1890" width="2766" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e6rvh83lCqWXMSusPGLA-33" source="6cnbei4Q0fEMiS3Ij1ch-12" target="6cnbei4Q0fEMiS3Ij1ch-17">
           <mxGeometry relative="1" as="geometry" />
@@ -94,6 +108,12 @@
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-17" value="&lt;ul&gt;&lt;li&gt;Generates a ticket - To surrender the two copies of mutation forms and the original title&lt;/li&gt;&lt;li&gt;Generate Mutation Registration fee invoice&lt;/li&gt;&lt;li&gt;Land owners to verify using OTPS for enumerated parcels&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-33">
           <mxGeometry x="1096" y="47" width="274" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-45" value="&lt;ul&gt;&lt;li&gt;Registration of mutation forms&lt;/li&gt;&lt;li&gt;Closing of mother parcel green card&lt;/li&gt;&lt;li&gt;Opening of new green cards for the child parcel(s)&lt;/li&gt;&lt;li&gt;Generate new green card (per parcel) invoice - Ksh.1000&amp;nbsp;&lt;/li&gt;&lt;li&gt;Generate title fees -&amp;nbsp; Ksh. 2500 per title&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-33">
+          <mxGeometry x="1976" y="20" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-49" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-33">
+          <mxGeometry x="2336" y="27" width="244" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-10" target="6cnbei4Q0fEMiS3Ij1ch-12">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-24" value="Investigation Officer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="44" y="-1460" width="2296" height="240" as="geometry" />
+          <mxGeometry x="44" y="-1460" width="2766" height="240" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6cnbei4Q0fEMiS3Ij1ch-24" source="6cnbei4Q0fEMiS3Ij1ch-31" target="6cnbei4Q0fEMiS3Ij1ch-34">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +152,7 @@
           <mxGeometry x="1390" y="280" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-25" value="Registrar" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="44" y="-1220" width="2296" height="220" as="geometry" />
+          <mxGeometry x="44" y="-1220" width="2766" height="220" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-26" target="6cnbei4Q0fEMiS3Ij1ch-31">
           <mxGeometry relative="1" as="geometry" />
@@ -151,8 +171,16 @@
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-34" target="6cnbei4Q0fEMiS3Ij1ch-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-45" value="" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="-1843" width="120" height="60" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-45" target="6cnbei4Q0fEMiS3Ij1ch-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-47" target="6cnbei4Q0fEMiS3Ij1ch-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-55" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-50">
+          <mxGeometry x="0.5001" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
