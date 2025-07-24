@@ -97,6 +97,17 @@
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-51" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
           <mxGeometry x="2080" y="80" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-49" value="&lt;u&gt;Output documents&lt;/u&gt;&lt;div&gt;The added pickupperson is notified to collect:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;New green card(s) generated with new number(s) depending on the number of parcels&lt;/li&gt;&lt;li&gt;Title Deed(s)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="2396" y="255" width="244" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="6cnbei4Q0fEMiS3Ij1ch-47" target="6cnbei4Q0fEMiS3Ij1ch-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-55" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-50">
+          <mxGeometry x="0.5001" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e6rvh83lCqWXMSusPGLA-33" value="System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="44" y="-1890" width="2766" height="200" as="geometry" />
         </mxCell>
@@ -111,9 +122,6 @@
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-45" value="&lt;ul&gt;&lt;li&gt;Registration of mutation forms&lt;/li&gt;&lt;li&gt;Closing of mother parcel green card&lt;/li&gt;&lt;li&gt;Opening of new green cards for the child parcel(s)&lt;/li&gt;&lt;li&gt;Generate new green card (per parcel) invoice - Ksh.1000&amp;nbsp;&lt;/li&gt;&lt;li&gt;Generate title fees -&amp;nbsp; Ksh. 2500 per title&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-33">
           <mxGeometry x="1976" y="20" width="260" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-49" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-33">
-          <mxGeometry x="2336" y="27" width="244" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-10" target="6cnbei4Q0fEMiS3Ij1ch-12">
           <mxGeometry relative="1" as="geometry" />
@@ -173,14 +181,6 @@
         </mxCell>
         <mxCell id="6cnbei4Q0fEMiS3Ij1ch-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-45" target="6cnbei4Q0fEMiS3Ij1ch-47">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6cnbei4Q0fEMiS3Ij1ch-47" target="6cnbei4Q0fEMiS3Ij1ch-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-55" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-50">
-          <mxGeometry x="0.5001" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
