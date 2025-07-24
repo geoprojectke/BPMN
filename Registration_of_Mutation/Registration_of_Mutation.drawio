@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="786" dy="2768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="3971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,31 +8,47 @@
           <mxGeometry x="90" y="-1120" width="460" height="120" as="geometry" />
         </mxCell>
         <mxCell id="e6rvh83lCqWXMSusPGLA-32" value="Applicant" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-2320" width="740" height="560" as="geometry" />
+          <mxGeometry x="44" y="-2400" width="1146" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-1" target="G51JuiO03liY-1iWp-O1-2">
+        <mxCell id="G51JuiO03liY-1iWp-O1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-1" target="G51JuiO03liY-1iWp-O1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
-          <mxGeometry x="40" y="60" width="70" height="70" as="geometry" />
+        <mxCell id="G51JuiO03liY-1iWp-O1-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="e6rvh83lCqWXMSusPGLA-32" vertex="1">
+          <mxGeometry x="40" y="100" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-2" value="If parcel is enumerated?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
-          <mxGeometry x="185" y="40" width="95" height="110" as="geometry" />
+        <mxCell id="G51JuiO03liY-1iWp-O1-2" value="If parcel is enumerated?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="e6rvh83lCqWXMSusPGLA-32" vertex="1">
+          <mxGeometry x="185" y="80" width="95" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-4" value="" style="shape=mxgraph.bpmn.data2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
-          <mxGeometry x="82.5" y="220" width="300" height="150" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-1" value="&lt;ul&gt;&lt;li&gt;Parcel Details - Parcel Number(s)&lt;/li&gt;&lt;li&gt;Mutation Details - Serial No.&lt;/li&gt;&lt;li&gt;Instructions of Registered Proprietor(s) to the Surveyor&lt;/li&gt;&lt;li&gt;Add Pickup person&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=22;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="103.75" y="280" width="257.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-2" target="G51JuiO03liY-1iWp-O1-4">
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-2" target="6cnbei4Q0fEMiS3Ij1ch-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-7" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
-          <mxGeometry x="470" y="300" width="120" height="80" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-7" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-3">
+          <mxGeometry x="-0.1143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e6rvh83lCqWXMSusPGLA-33" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="-1410" width="670" height="120" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="6cnbei4Q0fEMiS3Ij1ch-4" target="6cnbei4Q0fEMiS3Ij1ch-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G51JuiO03liY-1iWp-O1-9" value="" style="shape=mxgraph.bpmn.data2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-33">
-          <mxGeometry x="220" y="40" width="200" height="60" as="geometry" />
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-4" value="&lt;ul&gt;&lt;li&gt;Parcel Details - Parcel Number(s)&lt;/li&gt;&lt;li&gt;Ownership Details - Ardhisasa ID&lt;/li&gt;&lt;li&gt;Mutation Details - Serial No.&lt;/li&gt;&lt;li&gt;Instructions of Registered Proprietor(s) to the Surveyor&lt;/li&gt;&lt;li&gt;Add Pickup person&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=22;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="370" y="60" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="e6rvh83lCqWXMSusPGLA-32" source="G51JuiO03liY-1iWp-O1-2" target="6cnbei4Q0fEMiS3Ij1ch-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-6" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6cnbei4Q0fEMiS3Ij1ch-5">
+          <mxGeometry x="-0.0222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6cnbei4Q0fEMiS3Ij1ch-10" value="&lt;u&gt;Upload Documents Required&lt;/u&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Land Control Board Consent Letter&lt;/li&gt;&lt;li&gt;Land Control Board Application form&lt;/li&gt;&lt;li&gt;Two copies of completed mutation forms signed by LS,GS and owner&lt;/li&gt;&lt;li&gt;Certified copy of the confirmation of grant - succession option&lt;/li&gt;&lt;li&gt;Original Title or Certificate of Lease&lt;/li&gt;&lt;li&gt;Copy of ID of land owners and beneficiaries&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="e6rvh83lCqWXMSusPGLA-32">
+          <mxGeometry x="756" y="32.5" width="264" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="e6rvh83lCqWXMSusPGLA-33" value="System" style="swimlane;html=1;startSize=20;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="44" y="-1890" width="1146" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
