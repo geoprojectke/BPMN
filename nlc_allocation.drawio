@@ -34,6 +34,9 @@
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-192" parent="ONBlKHFYTEbgdZz1KcAG-61" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rejected" vertex="1">
           <mxGeometry height="30" width="60" x="1595" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="BkdA-2eqG7z-hyszgcng-11" parent="ONBlKHFYTEbgdZz1KcAG-61" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="1654" y="95" as="geometry" />
+        </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-63" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="NLC Chairperson" vertex="1">
           <mxGeometry height="260" width="1960" x="80" y="320" as="geometry" />
         </mxCell>
@@ -171,7 +174,7 @@
           <mxGeometry height="30" width="60" x="950" y="150" as="geometry" />
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-154" parent="ONBlKHFYTEbgdZz1KcAG-99" style="whiteSpace=wrap;html=1;rounded=1;" value="Prepare Allotment Letters" vertex="1">
-          <mxGeometry height="60" width="120" x="1570" y="75" as="geometry" />
+          <mxGeometry height="60" width="120" x="1510" y="75" as="geometry" />
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-159" edge="1" parent="ONBlKHFYTEbgdZz1KcAG-99" source="ONBlKHFYTEbgdZz1KcAG-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=0;dashed=1;dashPattern=1 1;" target="ONBlKHFYTEbgdZz1KcAG-154">
           <mxGeometry relative="1" as="geometry" />
@@ -182,8 +185,8 @@
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-158" parent="ONBlKHFYTEbgdZz1KcAG-99" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Allotment Letters" vertex="1">
           <mxGeometry height="30" width="60" x="1750" y="155" as="geometry" />
         </mxCell>
-        <mxCell id="ONBlKHFYTEbgdZz1KcAG-199" parent="ONBlKHFYTEbgdZz1KcAG-99" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Loop back to Technical Review&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1430" y="70" as="geometry" />
+        <mxCell id="ONBlKHFYTEbgdZz1KcAG-199" parent="ONBlKHFYTEbgdZz1KcAG-99" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Communicates to applicant&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1620" y="10" as="geometry" />
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-101" edge="1" parent="1" source="ONBlKHFYTEbgdZz1KcAG-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ONBlKHFYTEbgdZz1KcAG-100">
           <mxGeometry relative="1" as="geometry" />
@@ -284,7 +287,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONBlKHFYTEbgdZz1KcAG-155" edge="1" parent="1" source="ONBlKHFYTEbgdZz1KcAG-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ONBlKHFYTEbgdZz1KcAG-154" value="">
+        <mxCell id="ONBlKHFYTEbgdZz1KcAG-155" edge="1" parent="1" source="ONBlKHFYTEbgdZz1KcAG-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ONBlKHFYTEbgdZz1KcAG-154" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-156" connectable="0" parent="ONBlKHFYTEbgdZz1KcAG-155" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Approved" vertex="1">
@@ -349,7 +352,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-200" edge="1" parent="1" source="ONBlKHFYTEbgdZz1KcAG-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ONBlKHFYTEbgdZz1KcAG-199" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="903" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-201" connectable="0" parent="ONBlKHFYTEbgdZz1KcAG-200" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Deferred" vertex="1">
           <mxGeometry relative="1" x="0.3766" as="geometry">
@@ -369,6 +376,9 @@
           <mxGeometry relative="1" x="-0.2862" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BkdA-2eqG7z-hyszgcng-12" edge="1" parent="1" source="ONBlKHFYTEbgdZz1KcAG-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BkdA-2eqG7z-hyszgcng-11" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
