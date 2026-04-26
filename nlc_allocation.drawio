@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BFrMMQ0OjZfUKvEZfVZ9">
-    <mxGraphModel dx="875" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,8 +63,8 @@
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-137" parent="ONBlKHFYTEbgdZz1KcAG-72" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" value="" vertex="1">
           <mxGeometry height="50" width="40" x="1010" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="ONBlKHFYTEbgdZz1KcAG-138" parent="ONBlKHFYTEbgdZz1KcAG-72" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Memo and Bond Paper" vertex="1">
-          <mxGeometry height="40" width="70" x="1050" y="140" as="geometry" />
+        <mxCell id="ONBlKHFYTEbgdZz1KcAG-138" parent="ONBlKHFYTEbgdZz1KcAG-72" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Memo and Schedule of matters to be heard by the committee on the said dat" vertex="1">
+          <mxGeometry height="40" width="120" x="990" y="190" as="geometry" />
         </mxCell>
         <mxCell id="ONBlKHFYTEbgdZz1KcAG-152" edge="1" parent="ONBlKHFYTEbgdZz1KcAG-72" source="ONBlKHFYTEbgdZz1KcAG-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ONBlKHFYTEbgdZz1KcAG-151" value="">
           <mxGeometry relative="1" as="geometry" />
