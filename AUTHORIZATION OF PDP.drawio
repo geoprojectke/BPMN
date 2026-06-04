@@ -31,6 +31,12 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-24" parent="QhfKKwpIqzXietUsg6h9-5" style="rounded=1;whiteSpace=wrap;html=1;" value="RECEIVES AUTHORITY LETTER" vertex="1">
           <mxGeometry height="90" width="180" x="1551" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-40" parent="QhfKKwpIqzXietUsg6h9-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cc CHAIRPERSON NLC, CHAIRPERSORN LURP COMMITTIE, CEO NLC" vertex="1">
+          <mxGeometry height="10" width="170" x="160" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-41" edge="1" parent="QhfKKwpIqzXietUsg6h9-5" source="J8Ttmys6DVrMtN2zRGnq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="J8Ttmys6DVrMtN2zRGnq-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-15" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="COUNTY CORDINATOR" vertex="1">
           <mxGeometry height="260" width="3330" x="20" y="450" as="geometry" />
         </mxCell>
