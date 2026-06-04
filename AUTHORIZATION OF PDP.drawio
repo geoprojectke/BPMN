@@ -139,6 +139,21 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APPLICATION ENDS" vertex="1">
           <mxGeometry height="30" width="60" x="2040" y="1010" as="geometry" />
         </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-42" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="APPROVAL" vertex="1">
+          <mxGeometry height="240" width="2369" x="220" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-43" parent="J8Ttmys6DVrMtN2zRGnq-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. DEPUTY DIRECTOR LAND USE&amp;nbsp; PLANNING" vertex="1">
+          <mxGeometry height="40" width="280" x="89" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-44" parent="J8Ttmys6DVrMtN2zRGnq-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NAME" vertex="1">
+          <mxGeometry height="30" width="270" x="779" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-45" parent="J8Ttmys6DVrMtN2zRGnq-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TITLE" vertex="1">
+          <mxGeometry height="30" width="121" x="129" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-47" parent="J8Ttmys6DVrMtN2zRGnq-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. DIRECTOR LAND USE&amp;nbsp; PLANNING" vertex="1">
+          <mxGeometry height="40" width="280" x="70" y="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
