@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mRzNIm8zo79BkMqUCD0Y">
-    <mxGraphModel dx="1468" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-7" parent="QhfKKwpIqzXietUsg6h9-21" style="rounded=1;whiteSpace=wrap;html=1;" value="RECIEVES AND FORWARDS APPLICATION" vertex="1">
           <mxGeometry height="90" width="200" x="833" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="J8Ttmys6DVrMtN2zRGnq-18" parent="QhfKKwpIqzXietUsg6h9-21" style="rounded=1;whiteSpace=wrap;html=1;" value="RECEIVES APPLICATION&amp;nbsp;&lt;br&gt;SIGNS AUTHORITY LETTERS" vertex="1">
+        <mxCell id="J8Ttmys6DVrMtN2zRGnq-18" parent="QhfKKwpIqzXietUsg6h9-21" style="rounded=1;whiteSpace=wrap;html=1;" value="APPROVE APPLICATION&amp;nbsp;&lt;br&gt;SIGNS AUTHORITY LETTERS" vertex="1">
           <mxGeometry height="100" width="200" x="1186" y="40" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-20" parent="QhfKKwpIqzXietUsg6h9-21" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="GENERATES AUTHORITY LETTERS" vertex="1">
