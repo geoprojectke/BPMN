@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QhfKKwpIqzXietUsg6h9-1" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="AUTHORIZATION OF PDP" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-1" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="AUTHORIZATION OF PDP" vertex="1">
           <mxGeometry height="2080" width="3350" x="220" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-2" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="CECM" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-2" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="CECM" vertex="1">
           <mxGeometry height="200" width="3330" x="20" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-4" parent="QhfKKwpIqzXietUsg6h9-2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="PREPARES LETTER OF AUTHORIZATION&lt;div&gt;FORWARDS TO COUNTY CORDINATOR MANUALLY&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="230" x="556" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-5" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="CS" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-5" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="CS" vertex="1">
           <mxGeometry height="210" width="3330" x="20" y="200" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-7" parent="QhfKKwpIqzXietUsg6h9-5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
@@ -31,19 +31,19 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-24" parent="QhfKKwpIqzXietUsg6h9-5" style="rounded=1;whiteSpace=wrap;html=1;" value="RECEIVES AUTHORITY LETTER" vertex="1">
           <mxGeometry height="90" width="180" x="1551" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-11" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="CHAIRPERSORN NLC" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-11" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="CHAIRPERSORN NLC" vertex="1">
           <mxGeometry height="200" width="3330" x="20" y="410" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-12" parent="QhfKKwpIqzXietUsg6h9-11" style="rounded=1;whiteSpace=wrap;html=1;" value="RECIEVES APPLICATION AND FORWARD IT" vertex="1">
           <mxGeometry height="70" width="160" x="280" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-13" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="CHAIRPERSORN LUPR COMMITIIE" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-13" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="CHAIRPERSORN LUPR COMMITIIE" vertex="1">
           <mxGeometry height="230" width="3330" x="20" y="610" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-14" parent="QhfKKwpIqzXietUsg6h9-13" style="rounded=1;whiteSpace=wrap;html=1;" value="RECIEVES APPLICATION AND FORWARD IT" vertex="1">
           <mxGeometry height="70" width="160" x="280" y="65" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-15" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="COUNTY CORDINATOR" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-15" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="COUNTY CORDINATOR" vertex="1">
           <mxGeometry height="200" width="3330" x="20" y="840" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-20" edge="1" parent="QhfKKwpIqzXietUsg6h9-15" source="QhfKKwpIqzXietUsg6h9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QhfKKwpIqzXietUsg6h9-18" value="">
@@ -69,7 +69,7 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-28" parent="QhfKKwpIqzXietUsg6h9-15" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1950" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-21" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="CEO NLC" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-21" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="CEO NLC" vertex="1">
           <mxGeometry height="200" width="3330" x="20" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-7" parent="QhfKKwpIqzXietUsg6h9-21" style="rounded=1;whiteSpace=wrap;html=1;" value="RECIEVES AND FORWARDS APPLICATION" vertex="1">
@@ -84,13 +84,13 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-21" edge="1" parent="QhfKKwpIqzXietUsg6h9-21" source="J8Ttmys6DVrMtN2zRGnq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" target="J8Ttmys6DVrMtN2zRGnq-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-22" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="COMITTIE SECRETARY" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-22" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="COMITTIE SECRETARY" vertex="1">
           <mxGeometry height="200" width="3330" x="20" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-15" parent="QhfKKwpIqzXietUsg6h9-22" style="rounded=1;whiteSpace=wrap;html=1;" value="UPLOADS MINUTES&amp;nbsp;&lt;div&gt;FORWARDS APPLICATION&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="1190" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-23" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="DIRECTOR LAND USE PLANNING" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-23" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="DIRECTOR LAND USE PLANNING" vertex="1">
           <mxGeometry height="280" width="3330" x="20" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-2" parent="QhfKKwpIqzXietUsg6h9-23" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;ASSIGNS APPLICATION TO PLANNER&lt;/li&gt;&lt;li&gt;FORWARDS APPLICATION&lt;/li&gt;&lt;/ul&gt;" vertex="1">
@@ -99,7 +99,7 @@
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-12" parent="QhfKKwpIqzXietUsg6h9-23" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="100" width="120" x="1216" y="135" as="geometry" />
         </mxCell>
-        <mxCell id="QhfKKwpIqzXietUsg6h9-24" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="LAND USE PLANNING OFFICER" vertex="1">
+        <mxCell id="QhfKKwpIqzXietUsg6h9-24" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="LAND USE PLANNING OFFICER" vertex="1">
           <mxGeometry height="360" width="3330" x="20" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-3" parent="QhfKKwpIqzXietUsg6h9-24" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;REVIEWS APPLICATION DETAILS&amp;nbsp;&lt;/li&gt;&lt;li&gt;PREPARES GROUND STATUS REPORT&lt;/li&gt;&lt;li&gt;WRITES COMMENTS FOR THE AUTHORITY LETTER&lt;/li&gt;&lt;li&gt;FORWARDS APPLICATION TO DIRECTOR WITH RECOMMENDATION&lt;/li&gt;&lt;/ul&gt;" vertex="1">
