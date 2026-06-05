@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mRzNIm8zo79BkMqUCD0Y">
-    <mxGraphModel dx="1021" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QhfKKwpIqzXietUsg6h9-1" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="AUTHORIZATION OF PDP" vertex="1">
-          <mxGeometry height="1750" width="3350" x="220" y="120" as="geometry" />
+          <mxGeometry height="1750" width="2530" x="220" y="120" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-2" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="CECM" vertex="1">
-          <mxGeometry height="200" width="3330" x="20" as="geometry" />
+          <mxGeometry height="200" width="2510" x="20" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-4" parent="QhfKKwpIqzXietUsg6h9-2" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="PREPARES LETTER OF AUTHORIZATION&lt;div&gt;FORWARDS TO COUNTY CORDINATOR MANUALLY&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="230" x="465" y="40" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-5" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;startSize=20;" value="DIRECTOR PHYSICAL PLANNING MINISTRY" vertex="1">
-          <mxGeometry height="250" width="3330" x="20" y="200" as="geometry" />
+          <mxGeometry height="250" width="2510" x="20" y="200" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-7" parent="QhfKKwpIqzXietUsg6h9-5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="150" y="30" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-15" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="COUNTY CORDINATOR" vertex="1">
-          <mxGeometry height="260" width="3330" x="20" y="450" as="geometry" />
+          <mxGeometry height="260" width="2510" x="20" y="450" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-20" edge="1" parent="QhfKKwpIqzXietUsg6h9-15" source="QhfKKwpIqzXietUsg6h9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QhfKKwpIqzXietUsg6h9-18" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry height="80" width="80" x="1950" y="55" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-21" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="CEO NLC" vertex="1">
-          <mxGeometry height="200" width="3330" x="20" y="710" as="geometry" />
+          <mxGeometry height="200" width="2510" x="20" y="710" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-18" parent="QhfKKwpIqzXietUsg6h9-21" style="rounded=1;whiteSpace=wrap;html=1;" value="APPROVE APPLICATION&amp;nbsp;&lt;br&gt;SIGNS AUTHORITY LETTERS" vertex="1">
           <mxGeometry height="100" width="200" x="1186" y="40" as="geometry" />
@@ -81,13 +81,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-22" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="COMITTIE SECRETARY" vertex="1">
-          <mxGeometry height="200" width="3330" x="20" y="910" as="geometry" />
+          <mxGeometry height="200" width="2510" x="20" y="910" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-15" parent="QhfKKwpIqzXietUsg6h9-22" style="rounded=1;whiteSpace=wrap;html=1;" value="UPLOADS MINUTES&amp;nbsp;&lt;div&gt;FORWARDS APPLICATION&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="1190" y="50" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-23" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="DIRECTOR LAND USE PLANNING" vertex="1">
-          <mxGeometry height="280" width="3330" x="20" y="1110" as="geometry" />
+          <mxGeometry height="280" width="2510" x="20" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-2" parent="QhfKKwpIqzXietUsg6h9-23" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;ASSIGNS APPLICATION TO PLANNER&lt;/li&gt;&lt;li&gt;FORWARDS APPLICATION&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="110" width="237" x="242" y="130" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry height="100" width="120" x="1216" y="135" as="geometry" />
         </mxCell>
         <mxCell id="QhfKKwpIqzXietUsg6h9-24" parent="QhfKKwpIqzXietUsg6h9-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="LAND USE PLANNING OFFICER" vertex="1">
-          <mxGeometry height="360" width="3330" x="20" y="1390" as="geometry" />
+          <mxGeometry height="360" width="2510" x="20" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-3" parent="QhfKKwpIqzXietUsg6h9-24" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li&gt;REVIEWS APPLICATION DETAILS&amp;nbsp;&lt;/li&gt;&lt;li&gt;PREPARES GROUND STATUS REPORT&lt;/li&gt;&lt;li&gt;WRITES COMMENTS FOR THE AUTHORITY LETTER&lt;/li&gt;&lt;li&gt;FORWARDS APPLICATION TO DIRECTOR WITH RECOMMENDATION&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="150" width="327" x="210" y="90" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry height="30" width="60" x="2040" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-42" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="APPROVAL" vertex="1">
-          <mxGeometry height="240" width="2369" x="220" y="1990" as="geometry" />
+          <mxGeometry height="240" width="2530" x="220" y="1990" as="geometry" />
         </mxCell>
         <mxCell id="J8Ttmys6DVrMtN2zRGnq-43" parent="J8Ttmys6DVrMtN2zRGnq-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. DEPUTY DIRECTOR LAND USE&amp;nbsp; PLANNING" vertex="1">
           <mxGeometry height="40" width="280" x="89" y="130" as="geometry" />
